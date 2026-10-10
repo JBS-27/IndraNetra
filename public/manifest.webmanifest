@@ -1,0 +1,12 @@
+{
+  "name": "IndraNetra",
+  "short_name": "IndraNetra",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f3ead7",
+  "theme_color": "#1d3c72",
+  "lang": "en",
+  "icons": [
+    { "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}
